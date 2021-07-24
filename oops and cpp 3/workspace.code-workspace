@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\Downloads\\scissor-paper-rock-main"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"iostream": "cpp",
+			"fstream": "cpp",
+			"iosfwd": "cpp",
+			"forward_list": "cpp",
+			"vector": "cpp",
+			"iomanip": "cpp"
+		}
+	}
+}
